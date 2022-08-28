@@ -1,8 +1,8 @@
 {
-  "name": "firebase-registration",
+  
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MyagkiyBogdan.github.io/firebase-registration/",
+  "homepage": "https://maxstr75.github.io/firebase-navigation/",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
@@ -13,6 +13,7 @@
     "firebase": "^9.9.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
