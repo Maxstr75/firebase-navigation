@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/firebase-registration/static/css/main.bca2956b.css",
+    "main.js": "/firebase-registration/static/js/main.028af0fc.js",
+    "static/media/icons8-google.svg": "/firebase-registration/static/media/icons8-google.9a7800d06783d80a1c12249a8ca58e9d.svg",
+    "index.html": "/firebase-registration/index.html",
+    "main.bca2956b.css.map": "/firebase-registration/static/css/main.bca2956b.css.map",
+    "main.028af0fc.js.map": "/firebase-registration/static/js/main.028af0fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca2956b.css",
+    "static/js/main.028af0fc.js"
+  ]
+}
